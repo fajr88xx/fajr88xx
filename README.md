@@ -1,66 +1,76 @@
-<div align="center">
+<h1 align="center">Senior Full-Stack Developer</h1>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1F3A,100:2B6CB0&height=180&section=header&text=VLADYSLAV%20SAMCHUK&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=Senior%20Full-Stack%20Developer&descAlignY=62&descSize=18" width="100%" />
+<p align="center">
+  <sub>TypeScript · Node.js · Nest.js · React &nbsp;|&nbsp; Python · Django &nbsp;|&nbsp; LLM integrations</sub>
+</p>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=2500&pause=800&color=2B6CB0&center=true&vCenter=true&width=600&lines=Nest.js+%2B+GraphQL+%2B+React+%2B+Django;LLM+features+with+an+eval+harness%2C+not+vibes;10k%2B+leads%2Fmonth%2C+routed+in+under+3s;Measure+first%2C+cache+second" alt="typing" />
+<p align="center">
+  <a href="https://linkedin.com/in/vladyslav-samchuk"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:samchukvladyslav.dev@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/Ukraine%20·%20Remote-1F2937?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Open%20to%20work-10B981?style=for-the-badge" />
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/-linkedin-black?style=flat-square&logo=linkedin)](https://linkedin.com/in/vladyslav-samchuk)
-[![Email](https://img.shields.io/badge/-email-black?style=flat-square&logo=gmail)](mailto:samchukvladyslav.dev@gmail.com)
-[![Status](https://img.shields.io/badge/-remote%2C%20Ukraine%20%E2%86%92%20US%2FUK%2FEU-black?style=flat-square)]()
-![Profile views](https://komarev.com/ghpvc/?username=fajr88xx&style=flat-square&color=2B6CB0&label=visits)
+---
 
-</div>
-
-<br>
-
-### `$ whoami`
-
-```
-> 5 years of B2B SaaS. TypeScript by day, Django when needed, LLMs only when measured.
-```
+I build B2B SaaS products for US, UK and EU teams — 5 years of shipping backends, dashboards and, lately, LLM features that are measured instead of guessed. Most at home where **Nest.js / GraphQL** meets **PostgreSQL**, equally comfortable in a decade-old **Django** codebase.
 
 <br>
 
-### stack, unfiltered
+## ◆ &nbsp;Impact in numbers
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=ts,nodejs,nestjs,graphql,react,redux,py,django,postgres,redis,mysql,aws,gcp,docker,githubactions&theme=dark" />
-
-</div>
-
-<br>
-
-### `git log --oneline --author="Vladyslav"`
-
-```
-5d1e7a2 feat: Nest.js microservices + GraphQL federation for a multi-tenant platform
-b84c0f9 perf: lead routing for 10,000+ leads/month → under 3s (Celery + PostgreSQL)
-2a9f6e3 feat: LLM risk scoring on a 17-point matrix, QA harness vs human scores
-e07b3d1 perf: Redis caching on ESG dashboards → -25% page load
-71c4a8e ci: Docker + GitHub Actions to AWS → deploys from ~40 to <10 min
-c3f52b0 refactor: legacy Django views → DRF, -20% API error rate
-```
+<table>
+  <tr>
+    <td align="center" width="33%"><h2>10k+</h2><sub>leads per month routed<br>by a Django backend</sub></td>
+    <td align="center" width="33%"><h2>&lt; 3 s</h2><sub>lead routing time after<br>Celery + query tuning</sub></td>
+    <td align="center" width="33%"><h2>−25%</h2><sub>dashboard load time<br>with Redis caching</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><h2>40 → 10</h2><sub>minutes per deploy<br>Docker + GitHub Actions + AWS</sub></td>
+    <td align="center"><h2>−20%</h2><sub>API error rate after<br>moving to Django REST Framework</sub></td>
+    <td align="center"><h2>17</h2><sub>point risk matrix scored<br>by GPT-4o &amp; Claude</sub></td>
+  </tr>
+</table>
 
 <br>
 
-### things I will not apologize for
+## ◆ &nbsp;Toolbox
 
-- Shipping an LLM feature only after it has a number that says it works
-- Running EXPLAIN ANALYZE before anyone says "let's add a cache"
-- Writing code review guidelines down, so juniors don't have to guess
-- Treating an 11-year-old codebase with respect, then making it faster anyway
+| | |
+|---|---|
+| **Node.js** | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![GraphQL](https://img.shields.io/badge/GraphQL_Federation-E10098?style=flat-square&logo=graphql&logoColor=white) |
+| **Python** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![DRF](https://img.shields.io/badge/DRF-A30000?style=flat-square&logo=django&logoColor=white) ![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white) ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white) |
+| **AI / LLM** | ![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white) ![Anthropic](https://img.shields.io/badge/Anthropic_API-D97757?style=flat-square&logo=anthropic&logoColor=white) ![Evals](https://img.shields.io/badge/Structured_outputs_·_Evals-374151?style=flat-square) |
+| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| **Data** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
+| **Cloud** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) |
 
 <br>
 
-### currently
+## ◆ &nbsp;Selected work
 
+**Multi-tenant work management platform** — Nest.js microservices with GraphQL federation, PostgreSQL tuned for multi-tenant load, React + Redux data grids and dashboards.
+
+**AI company risk scoring** — a service on GPT-4o and Claude that rates companies on a 17-point risk matrix, with structured output parsers and a QA harness that tracks agreement with human scores, so prompts change without a redeploy.
+
+**Estate agency lead platform** — key backend developer on an 11-year-old Django system serving 1,000+ agencies; Celery queues and query rework brought lead routing under 3 seconds.
+
+<br>
+
+## ◆ &nbsp;Path
+
+```text
+2024 ─ 2026   Senior Full-Stack Developer   Gearheart.io     US/EU B2B SaaS
+2022 ─ 2024   Full-Stack Developer          AnvilEight       Django platforms, UK/EU
+2021 ─ 2022   Junior Full-Stack Developer   Bineks.net       Node.js for SMB clients
 ```
-building  → B2B SaaS backends on Nest.js / Django, with LLM features that are tested
-certified → AWS Developer – Associate · Google Cloud Associate Cloud Engineer
-open to   → Senior Full-Stack / Backend, remote-first
-```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2B6CB0,100:0B1F3A&height=100&section=footer" width="100%" />
+🎓 &nbsp;M.Sc. Software Engineering · B.Sc. Computer Science — Lutsk National Technical University
+<br>
+🏅 &nbsp;AWS Certified Developer – Associate · Google Cloud Associate Cloud Engineer
 
-</div>
+---
+
+<p align="center">
+  <sub>Currently open to Senior Full-Stack / Backend roles · remote-first · English & Ukrainian</sub>
+</p>
