@@ -60,9 +60,9 @@ I build B2B SaaS products for US, UK and EU teams — 5 years of shipping backen
 ## ◆ &nbsp;Path
 
 ```text
-2024 ─ 2026   Senior Full-Stack Developer   Gearheart.io     US/EU B2B SaaS
-2022 ─ 2024   Full-Stack Developer          AnvilEight       Django platforms, UK/EU
-2021 ─ 2022   Junior Full-Stack Developer   Bineks.net       Node.js for SMB clients
+Senior Full-Stack Developer   ·  Gearheart.io   ·  US/EU B2B SaaS
+Full-Stack Developer          ·  AnvilEight     ·  Django platforms, UK/EU
+Junior Full-Stack Developer   ·  Bineks.net     ·  Node.js for SMB clients
 ```
 
 🏅 &nbsp;AWS Certified Developer – Associate · Google Cloud Associate Cloud Engineer
