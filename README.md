@@ -65,8 +65,6 @@ Full-Stack Developer          ·  AnvilEight     ·  Django platforms, UK/EU
 Junior Full-Stack Developer   ·  Bineks.net     ·  Node.js for SMB clients
 ```
 
-🏅 &nbsp;AWS Certified Developer – Associate · Google Cloud Associate Cloud Engineer
-
 ---
 
 <p align="center">
