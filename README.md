@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/vladyslav-samchuk"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:samchukvladyslav.dev@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Ukraine%20·%20Remote-1F2937?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Remote-1F2937?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Open%20to%20work-10B981?style=for-the-badge" />
 </p>
 
@@ -65,8 +65,6 @@ I build B2B SaaS products for US, UK and EU teams — 5 years of shipping backen
 2021 ─ 2022   Junior Full-Stack Developer   Bineks.net       Node.js for SMB clients
 ```
 
-🎓 &nbsp;M.Sc. Software Engineering · B.Sc. Computer Science — Lutsk National Technical University
-<br>
 🏅 &nbsp;AWS Certified Developer – Associate · Google Cloud Associate Cloud Engineer
 
 ---
