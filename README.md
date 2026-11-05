@@ -57,14 +57,6 @@ I build B2B SaaS products for US, UK and EU teams — 5 years of shipping backen
 
 <br>
 
-## ◆ &nbsp;Path
-
-```text
-Senior Full-Stack Developer   ·  Gearheart.io   ·  US/EU B2B SaaS
-Full-Stack Developer          ·  AnvilEight     ·  Django platforms, UK/EU
-Junior Full-Stack Developer   ·  Bineks.net     ·  Node.js for SMB clients
-```
-
 ---
 
 <p align="center">
